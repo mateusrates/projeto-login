@@ -29,8 +29,7 @@ main{
     padding: 0px;
     margin: auto;
     border-radius: 20px;
-    display: block;
-    
+    display: block;    
 }
 
 img {
@@ -83,7 +82,10 @@ div.login > input{
    height: 5.5vh;
    margin-left:3px ;
    border-style: none;
+}
 
+div.login > input:focus{
+    background-color: white;
 }
 
 div.login > span{
