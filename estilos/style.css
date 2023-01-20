@@ -6,6 +6,7 @@ Verde: #49a09d
 Lilás: #5f2c82
 */
 
+
 *{
     font-family:Arial, Helvetica, sans-serif ;
     padding: 0px;
@@ -80,7 +81,7 @@ div.campo > label{
 
 div.campo > i{
     color: white;
-    /*background-color: black;*/
+    background-color: black;
     font-size: 2em;
     width: 40px;
     padding: 5px;
@@ -140,7 +141,6 @@ form> a.botao:hover{
 form > a.botao > i{
     font-size: .8em;
 }
-
 
 
 
